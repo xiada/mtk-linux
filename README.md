@@ -1,5 +1,5 @@
 # mtk-linux
-This is just some code I have started putting together for flashing my prestigio 5450 DUO(MTxx , Mediatek phone) it will never replace sp lash tool its just I am unable to get the linux version of flash tool working on my system.
+This is just some code I have started putting together for flashing my prestigio 5450 DUO(MTxx , Mediatek phone) it will never replace sp flash tool its just I am unable to get the linux version of flash tool working on my system correctly and booting windows just to flash a boot partition becomes irritating.
 
 My current progress is small I have managed to send the download agent to the device and am able to download from anywhere on phone flash memory I also have code for writing flash and will upload once I have tested
 
